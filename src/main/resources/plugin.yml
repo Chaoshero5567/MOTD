@@ -1,0 +1,7 @@
+name: Motd
+version: ${project.version}
+main: de.chaos.motd.MOTD
+authors: [Chaoshero5567]
+
+commands:
+  motd:
